@@ -1,16 +1,18 @@
-## Hi there 👋
+### Bem Vindos Ao Meu Perfil 💗
 
-<!--
-**zabella007/zabella007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Isabella Marques
 
-Here are some ideas to get you started:
+- Estou estudando no alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou me desenvolvendo na linguagem do JavaScript
+
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Pode Entrar em Contato comigo por: ⏬
+EMAIL: 00001128176464sp@al.educacao.sp.gov.br
+
+INSTA: @marqszz_
+
+### Obrigada pela atenção !!!! 🌼🌼
+
+![](https://media1.tenor.com/m/XHBgiAAw1DMAAAAd/butters-south.gif)
